@@ -1191,7 +1191,7 @@ CSS DE ÁREAS ESPECÍFICAS
     display: none;
 }
 
-@media (min-width:600px) and (max-width:800px) {
+@media (min-width:600px) and (max-width:916px) {
     header .logoimg{
         margin-left: 60px;
     }
@@ -1339,7 +1339,7 @@ CSS DE ÁREAS ESPECÍFICAS
 
 
 
- @media  (max-width:450px) {
+ @media (min-width:375px) and (max-width:450px) {
     header .logoimg{
         margin-left: 60px;
     }
